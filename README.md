@@ -1,5 +1,5 @@
 # quickvis_lm
-Quick way to try simple linear models on various datasets
+Quick way to try simple linear models on various datasets. 
 Follow these steps:
 
     - Select a dataset
